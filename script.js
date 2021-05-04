@@ -17,8 +17,6 @@ function calculate () {
   number = (a + b) / 2 * h
 
   alert(number)
-
+  
   document.getElementById('answer-text').innerHTML = number
-
 }
-
